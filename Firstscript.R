@@ -1,0 +1,1 @@
+Astupidfunctiontoadd2numbers<-function(a,b){a+b}
