@@ -1,1 +1,4 @@
-Astupidfunctiontoadd2numbers<-function(a,b){a+b}
+Astupidfunctiontoadd2numbers<-function(a,b){
+	#Here is a useless comment
+	a+b
+}
